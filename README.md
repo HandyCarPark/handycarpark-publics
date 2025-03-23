@@ -1,4 +1,8 @@
+
 # HandyCarPark – Dépôt GitHub
+
+![GitHub Repo](https://img.shields.io/badge/GitHub-handycarpark--publics-2E86AB?logo=github)
+🔗 [Voir sur GitHub](https://github.com/HandyCarParc/handycarpark-publics)
 
 Ce projet contient tous les éléments pour le déploiement de HandyCarPark :
 
@@ -14,6 +18,6 @@ Ce projet contient tous les éléments pour le déploiement de HandyCarPark :
 
 ## ✨ Voir la version stylisée (React) :
 
-👉 [Accéder à la version React](https://vite-react-9ywhyzuou-bensidhoums-projects.vercel.app/)
+👉 [Accéder à la version React](https://vite-react-9ywhyzuou-bensidhoums-projects.vercel.app)
 
 <img src="docs/qr_handyreac_site.png" alt="QR React" width="200"/>
